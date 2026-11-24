@@ -1,0 +1,7 @@
+.hover-card {
+    background-color: rgb(252, 255, 95);
+}
+
+.hover-card:hover {
+    background-color: rgb(255, 248, 125);
+}
